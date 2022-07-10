@@ -1,0 +1,10 @@
+
+\*************************/
+/    Witaj na Vinted!     \
+\*************************/
+
+Wybierz dzisiaj robisz: 
+1. dodaj przedmiot
+2. zobacz przedmiot
+3. zobacz przychod
+4. usun sprzedany produkt
